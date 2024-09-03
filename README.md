@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @E-M-Frotan
-- 👀 I’m interested in coding,playing footbal,swimming,have fun with my priends
+- 👀 I’m interested in coding,playing football,swimming,have fun with my friends
 - 🌱 I’m currently learning Next js , mongo db, react nativ
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
